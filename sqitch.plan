@@ -4,3 +4,4 @@
 
 users 2014-01-05T22:01:30Z Marge N. O’Vera <marge@example.com> # Creates table to track our users.
 flips [users] 2014-01-05T22:21:24Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
+userflips [users flips] 2014-01-05T22:40:29Z Marge N. O’Vera <marge@example.com> # Creates the userflips view.
