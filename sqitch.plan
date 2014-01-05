@@ -8,3 +8,4 @@ userflips [users flips] 2014-01-05T22:40:29Z Marge N. O’Vera <marge@example.co
 @v1.0.0-dev1 2014-01-05T22:42:36Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev1.
 
 lists [flips] 2014-01-05T22:44:41Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
+hashtags [flips] 2014-01-05T22:54:27Z Marge N. O’Vera <marge@example.com> # Adds table for storing hashtags.
