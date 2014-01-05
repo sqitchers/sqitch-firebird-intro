@@ -3,7 +3,7 @@
 -- requires: flips
 
 CREATE OR ALTER VIEW userflips AS
-SELECT f.id, u.nickname, u.fullname, f.body, f.created_at
+SELECT f.id, u.nickname, u.fullname, u.twitter, f.body, f.created_at
   FROM users u
   JOIN flips f ON u.nickname = f.nickname;
 
