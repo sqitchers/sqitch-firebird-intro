@@ -3,3 +3,4 @@
 %uri=https://github.com/theory/sqitch-firebird-intro/
 
 users 2014-01-05T22:01:30Z Marge N. O’Vera <marge@example.com> # Creates table to track our users.
+flips [users] 2014-01-05T22:21:24Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
